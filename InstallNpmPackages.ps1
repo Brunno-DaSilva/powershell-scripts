@@ -1,7 +1,7 @@
 <# 
 => Description: 
 => This script install node packages
-=> from every directory inside of a main direrctory 
+=> on every directory inside of a main direrctory 
 => This works well in a microservice env where you are constantly updating packages. 
 #>
 
